@@ -1,12 +1,12 @@
 # wikipedia-web-scraping-python-project
-# 🏢 Top American Companies Data Scraper
+# Top American Companies Data Scraper
 
 This project uses **Python** in **Jupyter Notebooks** to scrape data from **Wikipedia** about the top American companies.  
 The goal is to extract relevant company information, organize it into a **Pandas DataFrame**, and export the results to a **CSV file** for further analysis.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The notebook automates the process of:
 - Accessing Wikipedia pages using `requests` and `BeautifulSoup`
@@ -16,7 +16,7 @@ The notebook automates the process of:
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - **Python**
 - **Jupyter Notebook**
 - **BeautifulSoup4**
@@ -25,19 +25,19 @@ The notebook automates the process of:
 
 ---
 
-## 📈 Key Learning Outcomes
+## Key Learning Outcomes
 - Practiced web scraping fundamentals and HTML parsing  
 - Strengthened data cleaning and transformation skills  
 - Gained experience exporting and handling structured data for analysis
 
 ---
 
-## 📁 Output
+## Output
 The final output is a **CSV file** containing a clean dataset of top American companies, ready for analysis or visualization in tools such as Tableau or Power BI.
 
 ---
 
-## 💡 Next Steps
+## Next Steps
 Future improvements could include:
 - Automating updates when Wikipedia data changes  
 - Performing trend analysis or visualizations directly within the notebook  
